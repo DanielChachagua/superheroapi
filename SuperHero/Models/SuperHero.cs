@@ -2,7 +2,7 @@
 
 namespace SuperHero.Models
 {
-    [Table("SuperHero")]
+    [Table("SuperHeroes")]
     public class SuperHeroModel
     {
         public int Id { get; set; }
